@@ -1,5 +1,5 @@
 {
-  "name": "webpack-seed",
+  "name": "typescript-webpack-starter",
   "sideEffects": [
     "**/*.css",
     "**/*.scss"
